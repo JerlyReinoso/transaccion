@@ -1,0 +1,6 @@
+com\espe\transacciones\services\TransaccionServiceImpl.class
+com\espe\transacciones\services\TransaccionService.class
+com\espe\transacciones\repositories\TransaccionRepository.class
+com\espe\transacciones\models\entities\Transaccion.class
+com\espe\transacciones\TransaccionesApplication.class
+com\espe\transacciones\controllers\TransaccionController.class
